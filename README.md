@@ -1,4 +1,6 @@
-### UNC BACS-200 project 1 - first webiste
+### 
+
+UNC BACS-200 project 1 - first webiste
 
 <h1>BACS 200 Jimmy Fate- Home Page</h1> 
 <p> I am a senior here at UNC and should be graduating in the Fall</p> 
